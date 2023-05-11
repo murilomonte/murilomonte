@@ -2,5 +2,5 @@
 
 ***work in progress***
 
-- 🌱 Estudante back-end
+- 🌱 Estudante
 - 📚 Curso ADS
