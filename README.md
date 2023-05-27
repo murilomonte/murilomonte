@@ -1,6 +1,6 @@
-### Olá! 👋
+## Olá! 👋
 
 ***work in progress***
 
-- 🌱 Estudante
+- 🌱 Estudante front-end
 - 📚 Curso ADS
