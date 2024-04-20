@@ -18,7 +18,7 @@ Apaixonado por tecnologia, fotografia, música, linux e outras coisas de jovem.
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=w hite">
 </div>
 
-### 🔍 Onde me encontrar
+### 🔍 Onde me encontrar!
 
 <a href="https://www.instagram.com/muliro_sh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
