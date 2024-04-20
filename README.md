@@ -20,8 +20,7 @@ Apaixonado por tecnologia, fotografia, música, linux e outras coisas de jovem.
 
 ### 🔍 Onde me encontrar
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
+<a href="https://www.instagram.com/muliro_sh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ### ❗ Status
 
