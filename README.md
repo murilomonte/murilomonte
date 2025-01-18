@@ -31,6 +31,7 @@ Conhecimentos em:
 ## 🔍 Onde me encontrar&excl;
 
 [![Instagram pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muliro_sh/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/murilomonte/)
 
 ## ❗ Status
 
