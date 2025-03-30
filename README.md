@@ -34,4 +34,4 @@ Conhecimentos em:
 
 ## ❗ Status
 
-<img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=murilomonte&show_icons=true&theme=catppuccin_mocha" alt="Top Langs"> <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomonte&layout=compact&theme=catppuccin_mocha" alt="Top Langs">
+<img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=murilomonte&show_icons=true&theme=catppuccin_mocha" alt="Top Langs"> <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomonte&layout=compact&theme=catppuccin_mocha" alt="Top Langs">
