@@ -18,7 +18,6 @@ Conhecimentos em:
 
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Outros
@@ -35,5 +34,5 @@ Conhecimentos em:
 
 ## ❗ Status
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilomonte&show_icons=true&theme=catppuccin_mocha)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilomonte&layout=compact)
+<img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=murilomonte&show_icons=true&theme=catppuccin_mocha" alt="Top Langs">
+<img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomonte&layout=compact&theme=catppuccin_mocha" alt="Top Langs">
