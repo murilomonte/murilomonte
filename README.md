@@ -1,37 +1,53 @@
-# 🌙 Olá! Eu sou o Murilo 👋
+<div align="left">
+  <img height="200" src="https://i.imgur.com/j86UZW6.jpeg"  />
+</div>
 
-Apaixonado por tecnologia, fotografia, música, linux e outras coisas de jovem.
+###
 
-- 🧑🏻‍💻 Estudante front-end e mobile
-- 📚 Formado em ADS
+<h1 align="left">Hi 👋! I'm Murilo!</h1>
 
-## 🖥️ Tecnologias&excl;
+###
 
-Conhecimentos em:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+</div>
 
-### 📱 Mobile
+###
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=w)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=w)
+<p align="left">Full-stack developer with a special focus on mobile applications. I combine the power of the backend with the elegance of the frontend to create high-performance, scalable, and user-centric experiences.</p>
 
-### 🌐 Web
+###
 
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### Outros
+###
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=w)
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=murilomonte&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilomonte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="200" alt="languages graph"  />
+</div>
 
-## 🔍 Onde me encontrar&excl;
-
-[![Instagram pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muliro_sh/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/murilomonte/)
-
-## ❗ Status
-
-<img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=murilomonte&show_icons=true&theme=catppuccin_mocha" alt="Top Langs"> <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomonte&layout=compact&theme=catppuccin_mocha" alt="Top Langs">
+###
