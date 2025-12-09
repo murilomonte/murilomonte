@@ -13,10 +13,10 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="5" />
-  <!-- <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="5" /> -->
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
