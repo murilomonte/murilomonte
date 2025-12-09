@@ -43,9 +43,9 @@
 
 ###
 
-<div align="left">
-  <!-- <img src="https://streak-stats.demolab.com?user=murilomonte&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5" height="200" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilomonte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="200" alt="languages graph"  />
-</div>
+<!-- <div align="left">
+  <img src="https://streak-stats.demolab.com?user=murilomonte&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilomonte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="200" alt="languages graph"  /> 
+</div> -->
 
 ###
