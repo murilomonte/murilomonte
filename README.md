@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=typescript,nodejs,reactjs,expressjs,dart,flutter,python,docker,podman,postgresql,android,linux,fedora,figma"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=typescript,nodejs,reactjs,expressjs,dart,flutter,python,docker,podman,postgresql,android,linux,fedora,figma"/height="35">
 </div>
 
 ###
