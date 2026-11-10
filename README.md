@@ -1,10 +1,11 @@
-<div align="left">
+<!-- <div align="left">
   <img height="200" src="https://i.imgur.com/j86UZW6.jpeg"  />
-</div>
+</div> -->
 
 ###
 
 <h1 align="left">Hi 👋! I'm Murilo!</h1>
+<p align="left">Full-stack developer :D</p>
 
 ###
 
@@ -14,7 +15,6 @@
 
 ###
 
-<p align="left">Full-stack developer :D</p>
 
 ###
 
