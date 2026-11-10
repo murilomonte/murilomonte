@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Full-stack developer with a special focus on mobile applications. I combine the power of the backend with the elegance of the frontend to create high-performance, scalable, and user-centric experiences.</p>
+<p align="left">Full-stack developer :D</p>
 
 ###
 
